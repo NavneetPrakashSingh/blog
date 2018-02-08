@@ -1,0 +1,9 @@
+--cpanel--
+username : navneet94
+password : ayQ%x2UluQibnt
+
+---ftp account---
+FTP Username: navneet@makemetechie.com
+FTP server: makemetechie.com
+FTP & explicit FTPS port:  21
+password : nAvneet94

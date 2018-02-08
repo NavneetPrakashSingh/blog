@@ -1,0 +1,15 @@
+converting get request to post request
+C:\Users\Navneet\Desktop\tempblog\blog\public\js\admin.js
+C:\Users\Navneet\Desktop\tempblog\blog\app\Http\routes.php
+
+updating homepage -- adding logo to site and some minor changes -- 29 oct
+C:\Users\Navneet\Desktop\tempblog\blog\resources\views\layouts\mainlayout.blade.php
+C:\Users\Navneet\Desktop\tempblog\blog\public\css\customcss.css
+C:\Users\Navneet\Desktop\tempblog\blog\resources\views\main.blade.php
+
+adding icons to details page --29oct
+C:\Users\Navneet\Desktop\tempblog\blog\public\css\customcss.css
+C:\Users\Navneet\Desktop\tempblog\blog\resources\views\detailsPage.blade.php
+
+adding favicon to site -- 29 oct
+C:\Users\Navneet\Desktop\tempblog\blog\resources\views\layouts\mainlayout.blade.php

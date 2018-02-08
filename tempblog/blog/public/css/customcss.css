@@ -1,0 +1,79 @@
+.carousel-custom-class{
+	margin-top: 10px;
+}
+
+.custom-margin{
+	margin-left: 5px;
+	height: auto;
+}
+
+.custom-icons{
+	margin-left: 15px;
+}
+
+.success-msg{
+	margin-top: 10px;
+}
+.brand-logo{
+	position: relative !important;
+	padding-left: 25px !important;
+}
+.brand-name{
+	font-size: 20px;
+    font-weight: bold;
+}
+.details-heading{
+	text-align: center;
+	font-size: 35px;
+	color: white;
+	padding-top: 55px;
+}
+.nav-class{
+	background-color: #1abc9c !important;
+}
+
+.pointer{
+	cursor: pointer;
+}
+
+.content-middle-align{
+	text-align: center;
+}
+
+.align-heading{
+	margin-left: 35%;
+    margin-top: 5%;
+}
+
+.dark-green{
+	background-color: #16a085;
+	margin-top: 5%;
+}
+
+.align-cards-main-page{
+	padding-top: 3.5% !important;
+}
+
+.custom-image{
+	height: 250px;
+}
+
+.load-more-latestInTech{
+	margin-left: 45%;
+    margin-bottom: 20px;
+}
+.latest-in-tech-card{
+	height: 400px;
+}
+a{
+	color: black ;
+}
+
+.card-title{
+	    background-color: rgba(0, 0, 0, 0.5);
+	    width: 100%;
+}
+
+.parallax-container {
+      height: auto;
+    }
